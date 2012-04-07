@@ -1,0 +1,1 @@
+Integrating Hibernate with Struts 2.1
